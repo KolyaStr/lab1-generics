@@ -1,0 +1,7 @@
+C:\Users\Kolya\source\repos\lab1.1\lab1.4\bin\Debug\lab1.4.exe.config
+C:\Users\Kolya\source\repos\lab1.1\lab1.4\bin\Debug\lab1.4.exe
+C:\Users\Kolya\source\repos\lab1.1\lab1.4\bin\Debug\lab1.4.pdb
+C:\Users\Kolya\source\repos\lab1.1\lab1.4\obj\Debug\lab1.4.csproj.AssemblyReference.cache
+C:\Users\Kolya\source\repos\lab1.1\lab1.4\obj\Debug\lab1.4.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\source\repos\lab1.1\lab1.4\obj\Debug\lab1.4.exe
+C:\Users\Kolya\source\repos\lab1.1\lab1.4\obj\Debug\lab1.4.pdb
